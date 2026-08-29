@@ -94,10 +94,10 @@ export default function ProjectCard({ project }) {
           onMouseLeave={handleMouseLeave}
           className="
             relative
-            aspect-[4/5]
+            aspect-[5/6]
             overflow-hidden
             bg-zinc-900
-            sm:aspect-[3/4]
+            sm:aspect-[4/5]
           "
           style={{
             perspective: "1200px",
@@ -117,7 +117,7 @@ export default function ProjectCard({ project }) {
                 scale: 1,
               }}
               whileHover={{
-                scale: 1.05,
+                scale: 1.15,
               }}
               transition={{
                 scale: {
@@ -146,7 +146,7 @@ export default function ProjectCard({ project }) {
 
           {/* Category */}
           {project.category && (
-            <div className="absolute left-3 top-3 sm:left-4 sm:top-4">
+            <div className="absolute left-3 top-3 pointer-events-none sm:left-4 sm:top-4">
               <span
                 className="
                   inline-flex rounded-full
@@ -165,7 +165,7 @@ export default function ProjectCard({ project }) {
 
           {/* Status */}
           {project.status && (
-            <div className="absolute right-3 top-3 sm:right-4 sm:top-4">
+            <div className="absolute right-3 top-3 pointer-events-none sm:right-4 sm:top-4">
               <span
                 className={`inline-flex items-center gap-1.5 rounded-full border px-2.5 py-1.5 text-[10px] backdrop-blur-md sm:px-3 sm:text-[11px] ${
                   project.status === "Completed"

@@ -3,14 +3,14 @@
     "id": "balerion",
     "name": "Balerion",
     "slug": "balerion",
-    "shortDescription": "A modern online learning platform for programming courses.",
-    "description": "Balerion is a modern learning management platform designed for programming courses. The project includes a user-facing course platform and an admin dashboard for managing courses, categories, users, and educational content.",
-    "type": "Web Application",
+    "shortDescription": "A modern full-stack learning platform for programming courses.",
+    "description": "Balerion is a modern learning management platform for programming courses, featuring a user-facing course platform and an admin dashboard. The project includes authentication, user profiles, course and category management, and a Supabase-powered backend. It is currently under active development.",
+    "type": "Full-Stack Web Application",
     "category": "Education",
-    "status": "Completed",
+    "status": "In Development",
     "featured": true,
     "year": 2026,
-    "role": "Frontend Developer",
+    "role": "Full-Stack Developer",
 
     "tags": ["LMS", "Education", "Dashboard", "Full-Stack"],
 
@@ -20,6 +20,7 @@
       "React",
       "Tailwind CSS",
       "Supabase",
+      "PostgreSQL",
       "Git"
     ],
 
@@ -28,33 +29,38 @@
       "Authentication and user profiles",
       "Course and category management",
       "Admin dashboard",
+      "Supabase-powered backend",
       "Responsive interface",
-      "Supabase-powered backend"
+      "Full-stack architecture"
     ],
 
     "features": [
       "Course browsing and discovery",
       "Course categories",
-      "Authentication",
+      "User authentication",
       "User profiles",
       "Admin dashboard",
       "Course management",
       "Category management",
       "Responsive design",
-      "Supabase database integration"
+      "Supabase database integration",
+      "Backend data management"
     ],
 
     "challenges": [
-      "Building a scalable course and category structure",
-      "Managing authentication and user sessions",
-      "Creating a responsive admin dashboard",
-      "Connecting the frontend to Supabase"
+      "Designing a scalable course and category structure",
+      "Implementing authentication and user sessions",
+      "Building a responsive admin dashboard",
+      "Connecting the application to Supabase",
+      "Managing frontend and backend data flow",
+      "Structuring the project for future development"
     ],
 
     "architecture": {
       "frontend": "Next.js App Router",
       "backend": "Supabase",
-      "database": "Supabase PostgreSQL",
+      "database": "PostgreSQL",
+      "authentication": "Supabase Auth",
       "styling": "Tailwind CSS",
       "deployment": "Cloudflare Pages"
     },
@@ -83,7 +89,7 @@
     "type": "Web Application",
     "category": "Developer Tool",
     "status": "Completed",
-    "featured": true,
+    "featured": false,
     "year": 2026,
     "role": "Frontend Developer",
 
@@ -157,7 +163,7 @@
     "type": "Landing Page",
     "category": "Gaming",
     "status": "Completed",
-    "featured": true,
+    "featured": false,
     "year": 2026,
     "role": "Frontend Developer",
 
@@ -220,7 +226,7 @@
     "type": "UI Library",
     "category": "Frontend",
     "status": "In Progress",
-    "featured": true,
+    "featured": false,
     "year": 2026,
     "role": "Frontend Developer",
 
@@ -279,7 +285,7 @@
     "type": "Web Application",
     "category": "Productivity",
     "status": "Completed",
-    "featured": true,
+    "featured": false,
     "year": 2026,
     "role": "Frontend Developer",
 

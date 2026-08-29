@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "My Portfolio",
+  title: "Omid Daliri - Portfolio",
   description: "Frontend Developer Portfolio",
 };
 
