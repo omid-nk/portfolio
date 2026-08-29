@@ -1,0 +1,328 @@
+[
+  {
+    "id": "balerion",
+    "name": "Balerion",
+    "slug": "balerion",
+    "shortDescription": "A modern online learning platform for programming courses.",
+    "description": "Balerion is a modern learning management platform designed for programming courses. The project includes a user-facing course platform and an admin dashboard for managing courses, categories, users, and educational content.",
+    "type": "Web Application",
+    "category": "Education",
+    "status": "Completed",
+    "featured": true,
+    "year": 2026,
+    "role": "Frontend Developer",
+
+    "tags": ["LMS", "Education", "Dashboard", "Full-Stack"],
+
+    "technologies": [
+      "Next.js",
+      "JavaScript",
+      "React",
+      "Tailwind CSS",
+      "Supabase",
+      "Git"
+    ],
+
+    "highlights": [
+      "Modern course browsing experience",
+      "Authentication and user profiles",
+      "Course and category management",
+      "Admin dashboard",
+      "Responsive interface",
+      "Supabase-powered backend"
+    ],
+
+    "features": [
+      "Course browsing and discovery",
+      "Course categories",
+      "Authentication",
+      "User profiles",
+      "Admin dashboard",
+      "Course management",
+      "Category management",
+      "Responsive design",
+      "Supabase database integration"
+    ],
+
+    "challenges": [
+      "Building a scalable course and category structure",
+      "Managing authentication and user sessions",
+      "Creating a responsive admin dashboard",
+      "Connecting the frontend to Supabase"
+    ],
+
+    "architecture": {
+      "frontend": "Next.js App Router",
+      "backend": "Supabase",
+      "database": "Supabase PostgreSQL",
+      "styling": "Tailwind CSS",
+      "deployment": "Cloudflare Pages"
+    },
+
+    "links": {
+      "live": "https://balerion.ir",
+      "github": "https://github.com/omid-nk/balerion"
+    },
+
+    "images": {
+      "thumbnail": "/projects/balerion/thumbnail2.png",
+      "screenshots": [
+        "/projects/balerion/01.webp",
+        "/projects/balerion/02.webp",
+        "/projects/balerion/03.webp"
+      ]
+    }
+  },
+
+  {
+    "id": "tiptap-editor",
+    "name": "Tiptap Editor",
+    "slug": "tiptap-editor",
+    "shortDescription": "A lightweight rich text editor with JSON content import and export.",
+    "description": "Tiptap Editor is a modern browser-based rich text editor built with Tiptap. It allows users to create formatted content and easily import or export the editor state as JSON, making the content ready to be stored or consumed by other applications.",
+    "type": "Web Application",
+    "category": "Developer Tool",
+    "status": "Completed",
+    "featured": true,
+    "year": 2026,
+    "role": "Frontend Developer",
+
+    "tags": ["Editor", "Developer Tool", "Rich Text", "JSON"],
+
+    "technologies": [
+      "Next.js",
+      "JavaScript",
+      "React",
+      "Tiptap",
+      "Tailwind CSS",
+      "Cloudflare"
+    ],
+
+    "highlights": [
+      "Rich text editing",
+      "JSON content export",
+      "JSON content import",
+      "Responsive editing toolbar",
+      "Dark and light themes",
+      "Browser-based workflow"
+    ],
+
+    "features": [
+      "Rich text editing",
+      "JSON export",
+      "JSON import",
+      "Copy JSON",
+      "Load JSON",
+      "Responsive toolbar",
+      "Dark theme",
+      "Light theme",
+      "Toast notifications",
+      "Responsive layout"
+    ],
+
+    "challenges": [
+      "Working with Tiptap editor state",
+      "Converting editor content into reusable JSON",
+      "Building a responsive editing toolbar",
+      "Creating a clean developer-focused interface"
+    ],
+
+    "architecture": {
+      "frontend": "Next.js",
+      "editor": "Tiptap",
+      "styling": "Tailwind CSS",
+      "deployment": "Cloudflare"
+    },
+
+    "links": {
+      "live": "https://editor.omiddaliri.top",
+      "github": null
+    },
+
+    "images": {
+      "thumbnail": "/projects/tiptap-editor/thumbnail.webp",
+      "screenshots": [
+        "/projects/tiptap-editor/01.webp",
+        "/projects/tiptap-editor/02.webp"
+      ]
+    }
+  },
+
+  {
+    "id": "warthunder-landing",
+    "name": "War Thunder Landing Page",
+    "slug": "warthunder-landing",
+    "shortDescription": "A cinematic landing page concept inspired by War Thunder.",
+    "description": "A visually focused gaming landing page concept inspired by War Thunder. The project focuses on creating an immersive and cinematic experience through strong visual hierarchy, dramatic layouts, responsive sections, and game-oriented interface design.",
+    "type": "Landing Page",
+    "category": "Gaming",
+    "status": "Completed",
+    "featured": true,
+    "year": 2026,
+    "role": "Frontend Developer",
+
+    "tags": ["Gaming", "Landing Page", "UI", "Animation"],
+
+    "technologies": ["React", "JavaScript", "Tailwind CSS", "Vite"],
+
+    "highlights": [
+      "Cinematic visual design",
+      "Gaming-focused interface",
+      "Responsive layouts",
+      "Strong visual hierarchy",
+      "Interactive sections"
+    ],
+
+    "features": [
+      "Responsive layout",
+      "Cinematic hero section",
+      "Game-focused UI",
+      "Interactive sections",
+      "Responsive navigation",
+      "Visual content sections",
+      "Call-to-action sections"
+    ],
+
+    "challenges": [
+      "Creating a cinematic gaming atmosphere",
+      "Maintaining visual hierarchy across screen sizes",
+      "Building responsive layouts around large visual assets",
+      "Balancing visual effects with performance"
+    ],
+
+    "architecture": {
+      "frontend": "React",
+      "buildTool": "Vite",
+      "styling": "Tailwind CSS",
+      "deployment": null
+    },
+
+    "links": {
+      "live": "warthunder.omiddaliri.top",
+      "github": null
+    },
+
+    "images": {
+      "thumbnail": "",
+      "screenshots": [
+        "/projects/war-thunder/01.webp",
+        "/projects/war-thunder/02.webp"
+      ]
+    }
+  },
+
+  {
+    "id": "atlas-ui",
+    "name": "Atlas UI",
+    "slug": "atlas-ui",
+    "shortDescription": "A reusable UI component system built for consistent and scalable interfaces.",
+    "description": "Atlas UI is a frontend UI library and design system project focused on creating reusable, consistent, and responsive interface components. The project explores component architecture, design consistency, and scalable frontend development.",
+    "type": "UI Library",
+    "category": "Frontend",
+    "status": "In Progress",
+    "featured": true,
+    "year": 2026,
+    "role": "Frontend Developer",
+
+    "tags": ["Design System", "UI Library", "Components", "Frontend"],
+
+    "technologies": ["React", "TypeScript", "Tailwind CSS"],
+
+    "highlights": [
+      "Reusable component architecture",
+      "Consistent design language",
+      "Responsive components",
+      "Scalable frontend structure",
+      "Modern UI patterns"
+    ],
+
+    "features": [
+      "Reusable components",
+      "Component variants",
+      "Consistent design system",
+      "Responsive components",
+      "Modern UI patterns",
+      "Reusable styling patterns",
+      "Component composition"
+    ],
+
+    "challenges": [
+      "Designing reusable component APIs",
+      "Maintaining consistency between components",
+      "Creating flexible responsive components",
+      "Balancing customization with simplicity"
+    ],
+
+    "architecture": {
+      "frontend": "React",
+      "language": "TypeScript",
+      "styling": "Tailwind CSS"
+    },
+
+    "links": {
+      "live": null,
+      "github": null
+    },
+
+    "images": {
+      "thumbnail": "/projects/atlas-ui/thumbnail.webp",
+      "screenshots": ["/projects/atlas-ui/01.webp"]
+    }
+  },
+
+  {
+    "id": "forgetask",
+    "name": "Forgetask",
+    "slug": "forgetask",
+    "shortDescription": "A simple and focused task management application for everyday productivity.",
+    "description": "Forgetask is a lightweight task management application designed around a simple and focused user experience. The project focuses on making everyday task management fast, clear, and easy to use across different screen sizes.",
+    "type": "Web Application",
+    "category": "Productivity",
+    "status": "Completed",
+    "featured": true,
+    "year": 2026,
+    "role": "Frontend Developer",
+
+    "tags": ["Productivity", "Task Management", "Web App", "UI"],
+
+    "technologies": ["React", "JavaScript", "Tailwind CSS"],
+
+    "highlights": [
+      "Simple task management workflow",
+      "Clean user interface",
+      "Responsive design",
+      "Focused user experience"
+    ],
+
+    "features": [
+      "Task creation",
+      "Task management",
+      "Task completion",
+      "Simple interface",
+      "Responsive design",
+      "Focused workflow"
+    ],
+
+    "challenges": [
+      "Keeping the interface simple and distraction-free",
+      "Designing an intuitive task workflow",
+      "Maintaining a consistent experience across screen sizes"
+    ],
+
+    "architecture": {
+      "frontend": "React",
+      "language": "JavaScript",
+      "styling": "Tailwind CSS"
+    },
+
+    "links": {
+      "live": null,
+      "github": null
+    },
+
+    "images": {
+      "thumbnail": "",
+      "screenshots": ["/projects/forgetask/01.webp"]
+    }
+  }
+]

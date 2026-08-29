@@ -1,36 +1,114 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Omid Daliri — Portfolio
+
+Personal portfolio website showcasing my work, skills, experience, and journey as a Frontend Developer.
+
+🌐 **Live Website:** [omiddaliri.top](https://omiddaliri.top)
+
+## About
+
+I'm **Omid Daliri**, a Frontend Developer focused on building modern, responsive, and user-focused web applications.
+
+My main focus is **Next.js and React**, with an emphasis on clean interfaces, performance, responsive design, and a smooth user experience.
+
+My background in **SEO, WordPress, and graphic design** also gives me a broader perspective on how users interact with websites and digital products.
+
+## Tech Stack
+
+- **Next.js**
+- **React.js**
+- **JavaScript**
+- **TypeScript**
+- **Tailwind CSS**
+- **Motion**
+- **Supabase**
+- **Git & GitHub**
+
+## Features
+
+- Responsive design across desktop, tablet, and mobile
+- Dark-themed modern UI
+- Smooth section navigation
+- Animated UI elements
+- Project showcase
+- Skills & expertise section
+- Professional journey timeline
+- Contact section
+- Responsive mobile navigation
+- Custom scrollbar and ambient background effects
+
+## Project Structure
+
+```text
+src/
+├── app/
+│   ├── page.js
+│   ├── layout.js
+│   └── globals.css
+│
+└── components/
+    ├── Header.js
+    ├── Hero.js
+    ├── Projects.js
+    ├── About.js
+    ├── Journey.js
+    ├── Contact.js
+    └── ...
+```
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository:
+
+```bash
+git clone https://github.com/omid-nk/portfolio.git
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+To create a production build:
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Then start the production server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deployment
 
-## Deploy on Vercel
+The portfolio is deployed and publicly available at:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**https://omiddaliri.top**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Author
+
+**Omid Daliri**
+
+Frontend Developer
+React · Next.js · JavaScript · TypeScript
+
+- Portfolio: https://omiddaliri.top
+- GitHub: https://github.com/omid-nk
+- LinkedIn: https://www.linkedin.com/in/omidnk/
+
+---
+
+Built with **Next.js** and a lot of curiosity.
