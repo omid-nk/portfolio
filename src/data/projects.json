@@ -9,17 +9,17 @@
     "category": "Education",
     "status": "In Development",
     "featured": true,
-    "year": 2026,
+    "year": 2025,
     "role": "Full-Stack Developer",
 
     "tags": ["LMS", "Education", "Dashboard", "Full-Stack"],
 
     "technologies": [
       "Next.js",
-      "JavaScript",
       "React",
-      "Tailwind CSS",
       "Supabase",
+      "JavaScript",
+      "Tailwind CSS",
       "PostgreSQL",
       "Git"
     ],
@@ -66,7 +66,7 @@
     },
 
     "links": {
-      "live": "https://balerion.ir",
+      "live": "https://balerion.omiddaliri.top",
       "github": "https://github.com/omid-nk/balerion"
     },
 
@@ -89,7 +89,7 @@
     "type": "Web Application",
     "category": "Developer Tool",
     "status": "Completed",
-    "featured": false,
+    "featured": true,
     "year": 2026,
     "role": "Frontend Developer",
 
@@ -97,9 +97,9 @@
 
     "technologies": [
       "Next.js",
-      "JavaScript",
       "React",
-      "Tiptap",
+      "TipTap",
+      "JavaScript",
       "Tailwind CSS",
       "Cloudflare"
     ],
@@ -142,11 +142,11 @@
 
     "links": {
       "live": "https://editor.omiddaliri.top",
-      "github": null
+      "github": "https://github.com/omid-nk/tiptap-editor"
     },
 
     "images": {
-      "thumbnail": "/projects/tiptap-editor/thumbnail.webp",
+      "thumbnail": "/projects/tiptap-editor/thumbnail2.png",
       "screenshots": [
         "/projects/tiptap-editor/01.webp",
         "/projects/tiptap-editor/02.webp"
