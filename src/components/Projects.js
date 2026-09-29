@@ -25,7 +25,7 @@ export default function Projects() {
             </h2>
 
             <p className="mt-3 sm:mt-4 max-w-2xl text-xs sm:text-sm lg:text-base leading-6 sm:leading-7 text-zinc-500 [word-spacing:-0.05em]">
-              A selection of projects I've built, from full-stack web
+              A selection of projects I&lsquo;ve built, from full-stack web
               applications to developer tools and interactive experiences.
             </p>
           </div>
