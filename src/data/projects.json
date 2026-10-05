@@ -30,7 +30,7 @@
     "shortDescription": "A visually immersive weather application with animated weather conditions and city search.",
     "type": "Web Application",
     "category": "Weather",
-    "status": "In Development",
+    "status": "Completed",
     "featured": true,
     "year": 2026,
     "role": "Frontend Developer",
@@ -48,6 +48,24 @@
     },
     "images": {
       "thumbnail": "/projects/skyview/thumbnail.png"
+    }
+  },
+  {
+    "name": "War Thunder Landing Page",
+    "shortDescription": "A cinematic landing page concept inspired by War Thunder.",
+    "type": "Landing Page",
+    "category": "Gaming",
+    "status": "In Development",
+    "featured": true,
+    "year": 2026,
+    "role": "Frontend Developer",
+    "technologies": ["React", "JavaScript", "Tailwind CSS", "Vite"],
+    "links": {
+      "live": "https://warthunder.omiidnk02-a6c.workers.dev/",
+      "github": "https://github.com/omid-nk?tab=repositories"
+    },
+    "images": {
+      "thumbnail": "/projects/warthunder/thumbnail3.png"
     }
   },
   {
@@ -73,24 +91,6 @@
     },
     "images": {
       "thumbnail": "/projects/tiptap-editor/thumbnail2.png"
-    }
-  },
-  {
-    "name": "War Thunder Landing Page",
-    "shortDescription": "A cinematic landing page concept inspired by War Thunder.",
-    "type": "Landing Page",
-    "category": "Gaming",
-    "status": "Completed",
-    "featured": false,
-    "year": 2026,
-    "role": "Frontend Developer",
-    "technologies": ["React", "JavaScript", "Tailwind CSS", "Vite"],
-    "links": {
-      "live": "warthunder.omiddaliri.top",
-      "github": null
-    },
-    "images": {
-      "thumbnail": ""
     }
   },
   {
