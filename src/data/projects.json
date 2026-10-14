@@ -19,10 +19,30 @@
     ],
     "links": {
       "live": "https://balerion.ir",
+      "liveSecondary": "https://balerion.omiddaliri.top",
       "github": "https://github.com/omid-nk/balerion"
     },
     "images": {
-      "thumbnail": "/projects/balerion/thumbnail.png"
+      "thumbnail": "/projects/balerion.jpg"
+    }
+  },
+  {
+    "name": "War Thunder Landing Page",
+    "shortDescription": "A cinematic landing page concept inspired by War Thunder.",
+    "type": "Landing Page",
+    "category": "Gaming",
+    "status": "In Development",
+    "featured": true,
+    "year": 2026,
+    "role": "Frontend Developer",
+    "technologies": ["React", "JavaScript", "Tailwind CSS", "Vite"],
+    "links": {
+      "live": "https://warthunder.omiidnk02-a6c.workers.dev/",
+      "liveSecondary": "https://warthunder.omiddaliri.top",
+      "github": "https://github.com/omid-nk?tab=repositories"
+    },
+    "images": {
+      "thumbnail": "/projects/warthunder.jpg"
     }
   },
   {
@@ -44,28 +64,36 @@
     ],
     "links": {
       "live": "https://skyview.omiidnk02-a6c.workers.dev/",
+      "liveSecondary": "https://skyview.omiddaliri.top",
       "github": "https://github.com/omid-nk/skyview"
     },
     "images": {
-      "thumbnail": "/projects/skyview/thumbnail.png"
+      "thumbnail": "/projects/skyview.jpg"
     }
   },
   {
-    "name": "War Thunder Landing Page",
-    "shortDescription": "A cinematic landing page concept inspired by War Thunder.",
-    "type": "Landing Page",
-    "category": "Gaming",
-    "status": "In Development",
+    "name": "Modern Calculator",
+    "shortDescription": "A modern calculator featuring a neumorphic-inspired interface, keyboard support, and interactive sound effects.",
+    "type": "Web Application",
+    "category": "Utility",
+    "status": "Completed",
     "featured": true,
     "year": 2026,
     "role": "Frontend Developer",
-    "technologies": ["React", "JavaScript", "Tailwind CSS", "Vite"],
+    "technologies": [
+      "Next.js",
+      "React",
+      "JavaScript",
+      "Tailwind CSS",
+      "React Icons"
+    ],
     "links": {
-      "live": "https://warthunder.omiidnk02-a6c.workers.dev/",
-      "github": "https://github.com/omid-nk?tab=repositories"
+      "live": "https://calculator.omiidnk02-a6c.workers.dev/",
+      "liveSecondary": "https://calculator.omiddaliri.top",
+      "github": "https://github.com/omid-nk/calculator"
     },
     "images": {
-      "thumbnail": "/projects/warthunder/thumbnail.png"
+      "thumbnail": "/projects/calculator.jpg"
     }
   },
   {
@@ -87,46 +115,11 @@
     ],
     "links": {
       "live": "https://tiptap-editor.omiidnk02-a6c.workers.dev/",
+      "liveSecondary": "https://editor.omiddaliri.top",
       "github": "https://github.com/omid-nk/tiptap-editor"
     },
     "images": {
-      "thumbnail": "/projects/tiptap-editor/thumbnail.png"
-    }
-  },
-  {
-    "name": "Atlas UI",
-    "shortDescription": "A reusable UI component system built for consistent and scalable interfaces.",
-    "type": "UI Library",
-    "category": "Frontend",
-    "status": "In Progress",
-    "featured": false,
-    "year": 2026,
-    "role": "Frontend Developer",
-    "technologies": ["React", "TypeScript", "Tailwind CSS"],
-    "links": {
-      "live": null,
-      "github": null
-    },
-    "images": {
-      "thumbnail": "/projects/atlas-ui/thumbnail.webp"
-    }
-  },
-  {
-    "name": "Forgetask",
-    "shortDescription": "A simple and focused task management application for everyday productivity.",
-    "type": "Web Application",
-    "category": "Productivity",
-    "status": "Completed",
-    "featured": false,
-    "year": 2026,
-    "role": "Frontend Developer",
-    "technologies": ["React", "JavaScript", "Tailwind CSS"],
-    "links": {
-      "live": null,
-      "github": null
-    },
-    "images": {
-      "thumbnail": ""
+      "thumbnail": "/projects/tiptap.jpg"
     }
   }
 ]
